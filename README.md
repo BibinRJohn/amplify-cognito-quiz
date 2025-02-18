@@ -1,5 +1,7 @@
 Checkout the application here: https://main.d2s5yim1c6cyik.amplifyapp.com/
-📝 React Quiz App with AWS Amplify & Cognito
+
+
+📝React Quiz App with AWS Amplify & Cognito
 
 A secure and scalable **React quiz application** using **AWS Amplify** for backend services and **Amazon Cognito** for user authentication. This project provides a **seamless user experience**, allowing users to register, log in, and take quizzes while ensuring secure authentication and data management.
 
